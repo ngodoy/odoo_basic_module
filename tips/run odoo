@@ -1,0 +1,2 @@
+vagrant@vagrant-ubuntu-trusty-64:/vagrant/odoo$ ./odoo.py -r odoo --addons-path=addons,/vagrant/my-modules/
+./odoo.py -r odoo --addons-path=addons,/vagrant/my-modules/
